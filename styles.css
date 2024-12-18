@@ -15,14 +15,14 @@ body {
 }
 
 header {
-  margin: 0;
+  margin: -10px;
   margin-bottom: 10px;
   font-weight: bold;
   border-bottom: 1px solid white;
   width: 100vw;
   position: relative;
   left: -20px;
-  padding: 20px;
+  padding: -10px;
   box-sizing: border-box;
 }
 
@@ -51,7 +51,7 @@ hr {
   border: none;
   border-top: 1px solid white;
   width: 100vw;
-  margin: 20px 0;
+  margin: -10px 0;
   margin-bottom: 15px;
   position: relative;
   left: -20px;
