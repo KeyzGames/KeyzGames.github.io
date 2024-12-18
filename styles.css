@@ -16,7 +16,6 @@ body {
 
 header {
   margin: -10px;
-  margin-top: 0;
   margin-bottom: 10px;
   font-weight: bold;
   border-bottom: 1px solid white;
@@ -24,7 +23,6 @@ header {
   position: relative;
   left: 0px;
   padding: 10px;
-  box-sizing: border-box;
 }
 
 h1, h2, h4 {
