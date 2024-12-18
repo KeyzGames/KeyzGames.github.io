@@ -1,7 +1,8 @@
 @font-face {
     font-family: 'Helvetica';
     src: url('../fonts/helvetica.ttf') format('ttf'),
-         url('../fonts/helvetica-bold.ttf') format('ttf');
+         url('../fonts/helvetica-bold.ttf') format('ttf'),
+         url('../fonts/helvetica-bold-condensed.otf') format('otf');
     font-style: normal;
 }
 
@@ -16,6 +17,7 @@ body {
 
 header {
   font-weight: bold;
+  font-stretch: condensed;
   margin-top: -40px;
 }
 
