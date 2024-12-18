@@ -1,2 +1,2 @@
 # mynewrep
-My learning repository for HTML, CSS, and maybe JavaScript.
+My learning repository for HTML and CSS, might be used for JavaScript learning later.
