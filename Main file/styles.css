@@ -1,5 +1,13 @@
+@font-face {
+    font-family: 'Aeial';
+    src: url('../fonts/arial.ttf') format('ttf'),
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
   background-color: white;
+  font-family: 'Arial', sans-serif;
 }
 
 h1 {
