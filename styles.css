@@ -22,7 +22,7 @@ header {
   border-bottom: 1px solid white;
   width: 100vw;
   position: relative;
-  left: -20px;
+  left: 0px;
   padding: 10px;
   box-sizing: border-box;
 }
