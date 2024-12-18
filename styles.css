@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Helvetica';
     src: url('../fonts/helvetica.ttf') format('ttf'),
-         url('../fonts/helvetica-bold.ttf) format('ttf'),
+         url('../fonts/helvetica-bold.ttf') format('ttf');
     font-weight: normal;
     font-style: normal;
 }
