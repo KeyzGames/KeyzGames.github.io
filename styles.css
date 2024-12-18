@@ -10,13 +10,13 @@ body {
   display: block;
   padding: 10px;
   font-family: 'Helvetica', sans-serif;
-  margin-top: -50px;
   margin: 30px;
   overflow: auto;
 }
 
 header {
   font-weight: bold;
+  margin-top: -30px;
 }
 
 h1, h2, h4 {
