@@ -1,8 +1,8 @@
 @font-face {
     font-family: 'Helvetica';
-    src: url('../fonts/helvetica.ttf') format('ttf'),
-         url('../fonts/helvetica-bold.ttf') format('ttf'),
-         url('../fonts/helvetica-bold-condensed.otf') format('otf');
+    src: url('../fonts/helvetica.ttf') format('truetype'),
+         url('../fonts/helvetica-bold.ttf') format('truetype'),
+         url('../fonts/helvetica-bold-condensed.otf') format('opentype');
     font-style: normal;
 }
 
