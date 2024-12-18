@@ -19,7 +19,11 @@ header {
   margin-bottom: 10px;
   font-weight: bold;
   border-bottom: 1px solid white;
-  width: 120%;
+  width: 100vw;
+  position: relative;
+  left: -20px;
+  padding: 20px;
+  box-sizing: border-box;
 }
 
 h1, h2, h4 {
