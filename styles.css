@@ -10,7 +10,7 @@ body {
   display: block;
   padding: 10px;
   font-family: 'Arial', sans-serif;
-  margin: 10px;
+  margin: 15px;
   overflow: auto;
 }
 
@@ -55,6 +55,5 @@ hr {
   margin-bottom: 15px;
   position: relative;
   left: -20px;
-  padding: 20px;
-  box-sizing: border-box;
+  padding: -20px;
 }
