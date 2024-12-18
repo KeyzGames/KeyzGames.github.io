@@ -8,7 +8,6 @@
 body {
   background-color: #242424;
   font-family: 'Arial', sans-serif;
-  color: white;
   font-weight: normal;
 }
 
@@ -17,14 +16,17 @@ h1 {
   border-bottom: 1px solid white;
   width: 100%;
   font-weight: bold;
+  color: white;
 }
 
 h2 {
   font-size: 16px;
   text-align: justify;
+  color: white;
 }
 
 h4 {
   font-sizs: 6px;
   text-align: justify;
+  color: white;
 }
