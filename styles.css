@@ -7,12 +7,15 @@
 
 body {
   background-color: #242424;
+  display: block;
+  padding: 10px;
   font-family: 'Arial', sans-serif;
   margin: 10px;
+  overflow: auto;
 }
 
 header {
-  margin: 15px;
+  margin: 10px;
   margin-bottom: 10px;
   font-weight: bold;
   border-bottom: 1px solid white;
