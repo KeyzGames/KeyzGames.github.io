@@ -1,6 +1,7 @@
 @font-face {
-    font-family: 'Arial';
-    src: url('../fonts/arial.ttf') format('ttf'),
+    font-family: 'Helvetica';
+    src: url('../fonts/helvetica.ttf') format('ttf'),
+         url('../fonts/helvetica-bold.ttf) format('ttf'),
     font-weight: normal;
     font-style: normal;
 }
@@ -9,7 +10,7 @@ body {
   background-color: #242424;
   display: block;
   padding: 10px;
-  font-family: 'Arial', sans-serif;
+  font-family: 'Helvetica', sans-serif;
   margin: 15px;
   overflow: auto;
 }
